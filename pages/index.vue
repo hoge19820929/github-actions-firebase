@@ -3,7 +3,7 @@
     <div>
       <Logo />
       <h1 class="title">
-        github-actions-firebase
+        Firebase Deploy Test (GitHub Actions) 
       </h1>
       <div class="links">
         <a
